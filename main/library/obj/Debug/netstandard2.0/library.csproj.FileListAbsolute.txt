@@ -1,0 +1,9 @@
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/bin/Debug/netstandard2.0/library.dll
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/bin/Debug/netstandard2.0/library.pdb
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/obj/Debug/netstandard2.0/library.dll
+/Users/eduardo/VisualCodeProjects/C# Practice/main/library/obj/Debug/netstandard2.0/library.pdb
